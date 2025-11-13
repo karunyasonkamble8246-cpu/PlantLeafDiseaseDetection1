@@ -2,6 +2,7 @@ streamlit==1.39.0
 tensorflow-cpu==2.16.1
 numpy==1.26.4
 pillow==10.3.0
+pandas==2.2.3
 requests==2.32.3
 pytz==2024.2
-pandas==2.2.3
+h5py==3.11.0
